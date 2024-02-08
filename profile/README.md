@@ -20,7 +20,7 @@ In this group, you can:
 
 To join CodeSync.PH, you can visit our:
 
-- [website](http://codesync.ph/), 
+- [website](http://codesync.ph/)
 - [Discord server](https://discord.com/invite/cpNguAqNGr)
 - [Facebook Group Chat](https://m.me/j/AbY8czobJRw5X4aF/)
 - [Facebook Group](https://facebook.com/groups/571688097220281/)
