@@ -20,10 +20,10 @@ In this group, you can:
 
 To join CodeSync.PH, you can visit our:
 
-[website](http://codesync.ph/), 
-[Discord server](https://discord.com/invite/cpNguAqNGr)
-[Facebook Group Chat](https://m.me/j/AbY8czobJRw5X4aF/)
-[Facebook Group](https://facebook.com/groups/571688097220281/)
+- [website](http://codesync.ph/), 
+- [Discord server](https://discord.com/invite/cpNguAqNGr)
+- [Facebook Group Chat](https://m.me/j/AbY8czobJRw5X4aF/)
+- [Facebook Group](https://facebook.com/groups/571688097220281/)
 
 Don’t miss this opportunity to sync minds and code, create and innovate with CodeSync.PH! Join the coding revolution and bring your ideas to life with fellow Filipino programmers! 
 
